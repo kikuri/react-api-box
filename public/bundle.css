@@ -10,3 +10,6 @@ body {
   width: 400px;
   margin: 0 auto;
   text-align: left; }
+
+.map {
+  height: 400px; }
