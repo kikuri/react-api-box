@@ -1,0 +1,14 @@
+$background-color: #ccc;
+$text-color: #444;
+
+html,body{
+  height:100%;
+}
+
+body{
+  background-color: $background-color;
+  text-align: center;
+  color: $text-color;
+}
+
+@import 'GeocodeResult';

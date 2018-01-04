@@ -1,0 +1,12 @@
+html, body {
+  height: 100%; }
+
+body {
+  background-color: #ccc;
+  text-align: center;
+  color: #444; }
+
+.geocode-result {
+  width: 400px;
+  margin: 0 auto;
+  text-align: left; }
