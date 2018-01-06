@@ -2,7 +2,7 @@ html, body {
   height: 100%; }
 
 body {
-  background-color: #ccc;
+  background-color: #fff;
   color: #444; }
 
 ul {
@@ -17,6 +17,9 @@ ul {
 
 .result-area {
   display: flex; }
+
+.result-right {
+  margin-left: 20px; }
 
 .search-form {
   text-align: center;
